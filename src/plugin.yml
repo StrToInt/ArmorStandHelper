@@ -1,0 +1,8 @@
+name: ArmorStandHelper
+main: ArmorStandHelper.ASHelper
+version: 0.1 beta
+description: Armor Stand Helper for Minecraft
+author: strtoint
+commands:
+  ash:
+    description: common build commands family, need buildhelper.build permission
